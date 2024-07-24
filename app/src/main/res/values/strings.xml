@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">MyBalinaseResto</string>
+
+    <string name="menu_name">Nama Menu</string>
+    <string name="price">Harga</string>
+    <string name="description">Deskripsi</string>
+    <string name="about">About</string>
+    <string name="profile_name">Desak Putu Mahadewi Saraswati</string>
+    <string name="profile_email">sarasvatidpm11@gmail.com</string>
+    <string name="share">Share</string>
+
+    <string-array name="data_name">
+        <item>Ayam Betutu</item>
+        <item>Babi Guling</item>
+        <item>Lawar</item>
+        <item>Nasi Campur Bali</item>
+        <item>Sate Lilit</item>
+        <item>Aneka Jus</item>
+        <item>Es Buah</item>
+        <item>Es Kelapa Muda</item>
+        <item>Loloh Cemcem</item>
+        <item>Kopi Bali</item>
+    </string-array>
+
+    <string-array name="data_price">
+        <item>Harga: Rp 75.000 per porsi</item>
+        <item>Harga: Rp 55.000 per porsi</item>
+        <item>Harga: Rp 30.000 per porsi</item>
+        <item>Harga: Rp 45.000 per porsi</item>
+        <item>Harga: Rp 35.000 per porsi</item>
+        <item>Harga: Rp 30.000 per gelas</item>
+        <item>Harga: Rp 35.000 per gelas</item>
+        <item>Harga: Rp 20.000 per gelas</item>
+        <item>Harga: Rp 25.000 per gelas</item>
+        <item>Harga: Rp 25.000 per gelas</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Ayam Betutu adalah hidangan khas Bali yang terbuat dari ayam yang dimasak dengan rempah-rempah dan dibungkus daun pisang, kemudian dipanggang dalam waktu yang lama hingga rempah meresap dan dagingnya menjadi sangat lembut. Rasanya yang gurih dan pedas khas Bali membuat hidangan ini menjadi hidangan yang sangat dihargai.</item>
+        <item>Babi Guling adalah hidangan khas Bali yang terdiri dari daging babi yang dibumbui dengan rempah-rempah khas Bali dan dipanggang secara tradisional di atas bara api. Dagingnya yang juicy dengan kulit yang renyah membuat hidangan ini menjadi favorit banyak orang.</item>
+        <item>Lawar adalah hidangan tradisional Bali yang terbuat dari daging cincang (biasanya ayam atau babi) yang dicampur dengan sayuran, seperti kacang panjang, kelapa parut, dan rempah-rempah khas Bali. Hidangan ini memiliki rasa yang unik dan kaya akan rempah, serta tekstur yang menggugah selera.</item>
+        <item>Nasi Campur Bali adalah hidangan khas Bali yang terdiri dari nasi putih yang disajikan dengan aneka lauk seperti ayam suwir, sate lilit, sayuran, kacang tanah, dan sambal matah. Rasanya yang kaya dan beragam membuatnya menjadi pilihan favorit bagi pecinta masakan Bali.</item>
+        <item>Sate Lilit adalah sate khas Bali yang terbuat dari daging cincang yang dicampur dengan kelapa parut, daun jeruk, serai, dan rempah lainnya, kemudian dibungkus pada tusukan dari batang daun serei dan dipanggang. Tak lupa disajikan bersama nasi dan taburan keripik yang menambah kenikmatan. Rasanya yang gurih dengan aroma rempah yang khas membuatnya menjadi hidangan yang sempurna.</item>
+        <item>Aneka Jus Segar adalah minuman yang dihasilkan dari proses perasan buah-buahan segar tanpa tambahan pengawet. Rasanya yang segar dan alami memberikan sensasi menyegarkan dan menyehatkan bagi tubuh. Beragam jenis jus buah yang tersedia mulai dari jus alpukat, strawberry, mangga, semangka, nanas, dan lain-lain.</item>
+        <item>Es buah adalah minuman segar yang terdiri dari campuran potongan buah-buahan segar, seperti nangka, alpukat, semangka, nanas, danlain-lain. Disajikan dengan siraman sirup manis dan susu. Rasanya yang manis dan menyegarkan membuatnya menjadikan minuman ini sebagai pilihan yang masih populer terutama saat cuaca panas.</item>
+        <item>Es Kelapa Muda adalah minuman segar yang terbuat dari air kelapa muda dan parutan kelapa yang diberi es batu. Rasanya yang segar dan manis alami membuatnya menjadi minuman yang cocok untuk menemani hidangan khas Bali. Es kelapa muda menjadi minuman yang sangat disukai oleh banyak orang, terutama sebagai penghilang dahaga dan penyejuk tenggorokan.</item>
+        <item>Loloh Cemcem adalah minuman tradisional Bali yang terbuat dari daun cemcem (sejenis tanaman) yang direbus bersama dengan gula merah, jahe, dan rempah-rempah lainnya. Minuman ini memiliki rasa yang segar dengan sentuhan manis dari gula merah, serta aroma harum dari rempah-rempah.</item>
+        <item>Kopi Bali adalah kopi tradisional hasil perkebunan di Bali yang memiliki cita rasa yang khas dan unik. Kopi ini biasanya disajikan panas dan memiliki aroma yang harum serta rasa yang kuat. Rasanya yang kaya dan beraroma memberikan pengalaman minum kopi yang memuaskan, cocok dinikmati sebagai penutup setelah makan atau untuk memulai hari dengan semangat.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/ayam_betutu</item>
+        <item>@drawable/babi_guling</item>
+        <item>@drawable/lawar</item>
+        <item>@drawable/nasi_campur_bali</item>
+        <item>@drawable/sate_lilit</item>
+        <item>@drawable/aneka_jus</item>
+        <item>@drawable/es_buah</item>
+        <item>@drawable/es_kelapa_muda</item>
+        <item>@drawable/loloh_cemcem</item>
+        <item>@drawable/kopi</item>
+    </integer-array>
+</resources>
